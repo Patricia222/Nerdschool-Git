@@ -5,4 +5,9 @@
  */
 export const greeting = (firstname: string, lastname: string) => {
     console.log(`Hello ${firstname} ${lastname}`);
+    console.log(`Hello ${lastname} ${firstname} `);
+    console.log(`Hello ${firstname} ${lastname}`);
+    console.log(`Hello ${lastname} ${firstname} `);
+    console.log(`Hello ${firstname} ${lastname}`);
+    console.log(`Hello ${lastname} ${firstname} `);
   };
